@@ -6,4 +6,5 @@ To Do:
 
 1. Generate Monkhorst-Pack k-point grid for Brillouin zone integration... done
 2. Read Wannier90 output file `seedname_hr.dat`... done
-3. Fourier transform the Wannier Hamiltonian to reciprocal space
+3. Fourier transform the Wannier Hamiltonian to reciprocal space... done
+4. Calculate bandstructure
