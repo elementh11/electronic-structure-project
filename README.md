@@ -8,4 +8,4 @@ To Do:
 2. Read Wannier90 output file `seedname_hr.dat`... done
 3. Fourier transform the Wannier Hamiltonian to reciprocal space... done
 4. Calculate bandstructure... done
-5. Calculate velocity operator components
+5. TO DO: Calculate velocity operator components in k-space
