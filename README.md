@@ -7,4 +7,4 @@ Current capabilities
 - Generate (fractional) Monkhorst-Pack k-point grids for Brillouin zone sampling
 - Read data from the Wannier90 output file `seedname_hr.dat` and save it in `.npy` format for further use
 - Perform Wannier interpolation of the Hamiltonian in the reciprocal space
-- Calculate bandstructure... done
+- Calculate bandstructures
