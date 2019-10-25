@@ -5,6 +5,6 @@ This project consists of a set of tools to post-process the DFT (from Quantum Es
 Current capabilities
 
 - Generate (fractional) Monkhorst-Pack k-point grids for Brillouin zone sampling
-- Read data from the Wannier90 output file `seedname_hr.dat`
+- Read data from the Wannier90 output file `seedname_hr.dat` and save it in `.npy` format for further use
 - Fourier transform the Wannier Hamiltonian to reciprocal space
 - Calculate bandstructure... done
