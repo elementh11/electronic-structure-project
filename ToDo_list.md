@@ -7,3 +7,4 @@ The project consists of a set of tools to post-process the DFT (from Quantum Esp
 3. Fourier transform the Wannier Hamiltonian to reciprocal space... done
 4. Calculate bandstructure... done
 5. TO DO: Calculate velocity operator components in k-space
+6. TO DO: Calculate spin current operator components in k-space
