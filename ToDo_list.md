@@ -8,3 +8,4 @@ The project consists of a set of tools to post-process the DFT (from Quantum Esp
 4. Calculate bandstructure... done
 5. TO DO: Calculate velocity operator components in k-space
 6. TO DO: Calculate spin current operator components in k-space
+7. TO DO: Calculate the bands Berry curvature
