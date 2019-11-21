@@ -10,3 +10,4 @@ The project consists of a set of tools to post-process the DFT (from Quantum Esp
 6. TO DO: Calculate spin current operator components in k-space
 7. TO DO: Calculate the (k-resolved) Berry curvature of the occupied bands
 8. TO DO: Calculate the spin Berry curvature of the occupied bands
+9. TO DO: Calculate the Hall conductivity tensor
